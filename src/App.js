@@ -1,4 +1,6 @@
 import { Route,BrowserRouter,Routes } from "react-router-dom";
+import Timelinepg from "./Pages/Timelinepg";
+import ErrPage from "./Pages/404";
 import Landing from "./Pages/Landing";
 import Register from "./Pages/Register";
 
@@ -9,7 +11,8 @@ function App() {
       <Routes>
         <Route exact path='/' element={<Landing />} />
         <Route exact path='/register' element={<Register />} />
-        
+        <Route exact path='/timeline' element={<Timelinepg />} />
+        <Route exact path='*' element={<ErrPage />} />
       </Routes>
     </BrowserRouter>
   </div>
@@ -17,20 +20,3 @@ function App() {
 }
 
 export default App;
-
-// import Layout from './Components/Layout/Layout';
-// import Header from './Components/Header/Header';
-// import Body from './Components/Body/Body';
-// import Marquee from './Components/Marquee/Marquee';
-
-// function App() {
-//   return (
-//     <Layout>
-//         <Header />
-//         <Body />
-//         <Marquee />
-//     </Layout>
-//   );
-// }
-
-// export default App;
