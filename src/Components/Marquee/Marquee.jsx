@@ -8,14 +8,14 @@ const Marquee = () => {
             <span class="md:text-2xl text-l mx-1">🞰 Computer Society of India</span>
             <span class="md:text-2xl text-l mx-1">🞰 Computer Society of India</span>
             <span class="md:text-2xl text-l mx-1">🞰 Computer Society of India</span>
-            <span class="md:text-2xl text-l mx-1">🞰 Computer Society of India</span>        
+            <span class="md:text-2xl text-l mx-1">🞰 Computer Society of India</span>    
             <span class="md:text-2xl text-l mx-1">🞰 Computer Society of India</span>   
         </div>
         <div class="absolute top-0 py-1 animate-marquee2 whitespace-nowrap font-marquee">
             <span class="md:text-2xl text-l mx-1">🞰 Computer Society of India</span>
             <span class="md:text-2xl text-l mx-1">🞰 Computer Society of India</span>
             <span class="md:text-2xl text-l mx-1">🞰 Computer Society of India</span>
-            <span class="md:text-2xl text-l mx-1">🞰 Computer Society of India</span>
+            <span class="md:text-2xl text-l mx-1">🞰 Computer Society of India</span>  
             <span class="md:text-2xl text-l mx-1">🞰 Computer Society of India</span>   
         </div>
       </div>

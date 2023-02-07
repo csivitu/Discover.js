@@ -7,7 +7,7 @@ const Timeline = () => {
             <div class="relative col-span-1 w-full h-full flex justify-center mt-3">
                 <div class="h-full w-1 bg-white"></div>
                 <div class="absolute w-5 h-5 transform rotate-45 bg-pink z-10"></div>
-                <div class="md:visible invisible ml-28 mt-2 absolute w-32 h-1 bg-white"></div>
+                <div class="absolute md:visible invisible md:w-24 md:ml-20 lg:ml-28 mt-2 lg:w-32 h-1 bg-white"></div>
             </div>
             <div class="col-span-4 w-full h-full ">
                 <div class="w-full h-full md:pl-16">
@@ -27,7 +27,7 @@ const Timeline = () => {
             </div>
         </div>
             <div class="relative col-span-1 w-full h-full flex justify-center">
-                    <div class="md:visible invisible mr-28 mt-7 absolute w-32 h-1 bg-white"></div>
+                    <div class="absolute md:visible invisible md:w-24 md:mr-20 lg:mr-28 mt-7 lg:w-32 h-1 bg-white"></div>
                     <div class="h-full w-1 bg-white"></div>
                     <div class="absolute w-5 h-5 transform rotate-45 bg-blue z-10 mt-5"></div>
                 
@@ -38,7 +38,7 @@ const Timeline = () => {
             <div class="relative col-span-1 w-full h-full flex justify-center">
                 <div class="h-full w-1 bg-white"></div>
                 <div class="absolute w-5 h-5 transform rotate-45 bg-purple z-10 mt-5"></div>
-                <div class="md:visible invisible ml-28 mt-7 absolute w-32 h-1 bg-white"></div>
+                <div class="absolute md:visible invisible md:w-24 md:ml-20 lg:ml-28 mt-7 lg:w-32 h-1 bg-white"></div>
             </div>
             <div class="col-span-4 w-full h-full pb-20">
                 <div class="w-full h-full p-2 md:pl-16">
