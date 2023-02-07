@@ -5,7 +5,7 @@ import Elements_right from "./../Images/elements_right.svg"
 
 const Body = () => {
   return (
-    <div id = 'home' className='grid grid-cols-1 sm:grid-cols-3 lg:py-28 md:py-32 sm:py-36'>
+    <div id = 'home' className='grid grid-cols-1 sm:grid-cols-3 lg:py-48 md:py-32 sm:py-36'>
         {/* svg 1 */}
         <div className='sm:w-3/5 w-0'>
             <img src={Elements_left} className="" alt="logo" />
@@ -19,9 +19,9 @@ const Body = () => {
                 </p>    
             </div>
             <div className='pt-10 md:pb-0 pb-28'>
-                <button className='font-body border border-blue border-r-4 border-b-4 text-blue text-sm lg:text-2xl rounded md:px-16 py-10 md:py-2 px-3 py-1 hover:text-sky-50 duration-500'>
+                <a href = "https://vtop.vit.ac.in/" type='button' className='font-body border border-blue border-r-4 border-b-4 text-blue text-sm lg:text-2xl rounded md:px-16 py-10 md:py-2 px-3 py-1 hover:text-sky-50 duration-500'>
                     Register Now
-                </button>
+                </a>
             </div>
             
         </div>

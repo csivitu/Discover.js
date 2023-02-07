@@ -4,7 +4,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'gray': '#202020',
+        'darkgray': '#171717',
+        'gray': '#A7A4A4',
         'yellow': '#FDE12D',
         'white': '#ffffff',
         'blue': '#60B3DC',
@@ -36,5 +37,7 @@ module.exports = {
       },
     },
   },
-  plugins: [],
+  plugins: [
+    require("tailwindcss-scrollbar"),
+  ],
 }
