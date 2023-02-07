@@ -5,18 +5,24 @@ module.exports = {
     extend: {
       colors: {
         'gray': '#202020',
-        'yellow': '#C0A156',
+        'yellow': '#FDE12D',
         'white': '#ffffff',
         'blue': '#60B3DC',
         'gold': '#FFD060',
         'pink': "#F25185",
         'purple': "#9629C4"
-
-
+      },
+      fontSize:{
+        '7.5xl': '5.25rem'
+      },
+      fontFamily:{
+        'title': ['Newake','sans-serif'],
+        'body': ['GeneralSans','sans-serif'],
+        'marquee': ['NeueMachina','sans-serif'],
       },
       animation: {
-        marquee: 'marquee 20s linear infinite',
-        marquee2: 'marquee2 20s linear infinite',
+        marquee: 'marquee 22s linear infinite',
+        marquee2: 'marquee2 22s linear infinite',
       },
       keyframes: {
         marquee: {
