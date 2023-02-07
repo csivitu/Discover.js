@@ -9,6 +9,10 @@ module.exports = {
         'white': '#ffffff',
         'blue': '#60B3DC',
         'gold': '#FFD060',
+        'pink': "#F25185",
+        'purple': "#9629C4"
+
+
       },
       animation: {
         marquee: 'marquee 20s linear infinite',
