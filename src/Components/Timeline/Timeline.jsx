@@ -45,7 +45,7 @@ const Timeline = () => {
                 <h1 class="text-purple text-2xl font-medium py-2 text-left font-bold">What's Next? 2</h1>
                     <p class="text-white sm:text-base text-xs text-left">The workshop series concludes with a hands-on guided project.</p>
                     <p class="text-white sm:text-base text-xs text-left pt-5">15th February 2023</p>
-                    <p class="text-white sm:text-base text-xs text-left pt-5 font-bold italic">Time - TBA</p>
+                    <p class="text-white sm:text-base text-xs text-left pt-5 font-bold italic">To be announced</p>
                 </div>
             </div>
     </div>
