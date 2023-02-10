@@ -14,7 +14,7 @@ const Body = () => {
         <div className='text-center justify-center'>
             <div className='grid grid-rows-1 grid-rows-2'>
                 <img src={Discover_js} className="h-full w-full px-10 sm:px-0" alt="logo" />
-                <p className='font-body text-sm md:text-l lg:text-xl text-white mx-15 py-10 px-10'>
+                <p className='font-body text-sm md:text-l lg:text-xl text-white mx-15 py-10 md:px-10'>
                     CSI-VIT brings to you a series of technical workshops to introduce you to the world of WebDev. Come along and let us guide you through your very own portfolio website!
                 </p>    
             </div>
