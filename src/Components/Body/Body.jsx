@@ -9,12 +9,12 @@ import Elements_br from "./../Images/elements_br.svg"
 
 const Body = () => {
   return (
-    <div id = 'home' className='transition-all ease-in-out duration-1000 grid grid-cols-1 sm:grid-cols-3 lg:py-48 md:py-32 sm:py-36 transition-all ease-in-out duration-500'>
+    <div id ='home' className='transition-all ease-in-out duration-1000 grid grid-cols-1 sm:grid-cols-3 lg:py-48 md:py-32 sm:py-36 transition-all ease-in-out duration-500'>
         {/* svg 1 */}
         <div className='sm:w-3/5 '>
             <picture>
                 <source media="(max-width:639px)" srcset={Elements_top}/>
-                <img src={Elements_left} className="" alt="logo" />
+                <img src={Elements_left} className="mx-auto" alt="logo" />
             </picture>
             
         </div>
