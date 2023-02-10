@@ -2,13 +2,20 @@ import React from 'react';
 import timelinet1 from './../Images/timelinet1.svg';
 import timelinet2 from './../Images/timelinet2.svg';
 import timelinet3 from './../Images/timelinet3.svg';
+import timelinem2 from './../Images/timelinem2.svg';
+import timelinem1 from './../Images/timelinem1.svg';
+import timelinem3 from './../Images/timelinem1.svg';
+
 
 const Timeline = () => {
   return (
     <div id = "timeline" className="max-w-7xl mx-auto w-full grid grid-cols-9 pt-10 px-2">
         <div className="col-span-4 w-full h-full ">
+                <picture>
+                    <source media="(max-width:639px)" srcset={timelinem1}/>
+                    <img src={timelinet1} className="" alt="logo" />
+                </picture>
         <div className='sm:w-full w-0'>
-            <img src={timelinet1} className="" alt="logo" />
         </div>
         </div>
             <div className="relative col-span-1 w-full h-full flex justify-center mt-3">
@@ -49,15 +56,20 @@ const Timeline = () => {
                 
             </div>
             <div className="col-span-4 w-full h-full">
-            <div className='sm:w-full w-0 md: pl-28 lg:pl-56'>
-                <img src={timelinet2} className="" alt="logo" />
+            <div className='sm:w-full md:pl-28 lg:pl-56 flex justify-end pt-24 sm:pt-0'>
+                <picture>
+                    <source media="(max-width:639px)" srcset={timelinem2}/>
+                    <img src={timelinet2} className="" alt="logo" />
+                </picture>
             </div>
             </div>
 
         <div className="col-span-4 w-full pt-20">
-        <div className='sm:w-full w-0'>
-                <img src={timelinet3} className="" alt="logo" />
-            </div>
+                <picture>
+                    <source media="(max-width:639px)" srcset={timelinem3}/>
+                    <img src={timelinet3} className="" alt="logo" />
+                </picture>
+        <div className='sm:w-full w-0'></div>
         </div>
             <div className="relative col-span-1 w-full h-full flex justify-center">
                 <div className="h-full w-1 bg-white"></div>
