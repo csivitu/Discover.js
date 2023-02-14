@@ -8,19 +8,19 @@
     <img src="https://csivit.com/images/favicon.png" alt="Logo" width="80">
   </a>
 
-  <h3 align="center">Discover.js-Frontend</h3>
+  <h3 align="center">Discover.js-Website</h3>
 
   <p align="center">
     A website made for discover.js workshop conducted by CSIVIT
     <br />
-    <a href="https://github.com/csivitu/Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/csivitu/Discover.js#about-the-project"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/csivitu/Template">View Demo</a>
+    <a href="https://discoverjs.csivit.com">View Demo</a>
     ·
-    <a href="https://github.com/csivitu/Template/issues">Report Bug</a>
+    <a href="https://github.com/csivitu/Discover.js/issues/new">Report Bug</a>
     ·
-    <a href="https://github.com/csivitu/Template/issues">Request Feature</a>
+    <a href="https://github.com/csivitu/Discover.js/issues/new">Request Feature</a>
   </p>
 </p>
 
@@ -34,11 +34,10 @@
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
-* [Usage](#usage)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [License](#license)
-* [Contributors](#contributors-)
+* [Contributors](#contributors)
 
 
 
@@ -46,7 +45,7 @@
 ## About The Project
 
 <p align="center">
-  <img src="./src/Images/readme.svg" alt="Discover.js-info" >
+  <img src="https://user-images.githubusercontent.com/90889124/218718969-2a748142-489f-4048-aa74-a6aa7615c49e.png" style="width:50%" alt="Discover.js-info" >
 </p>
 
 CSI-VIT brings to you a series of technical workshops to introduce you to the world of webdev. Come along and let us guide you through your very own portfolio website!
@@ -120,18 +119,6 @@ Thanks goes to these wonderful people:
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/csivitu/LaserTag-Frontend/commits?author=nimishjn">
-        <img src="https://avatars.githubusercontent.com/u/63140632?v=4" width="100px;" alt=""/>
-      </a>
-      <br />
-      <sub>
-        <b>Nimish Jain</b>
-      </sub>
-      <br />
-      <a href="https://github.com/nimishjn" title="Code">💻</a>
-      <a href="https://www.nimish-jain.com" title="Portfolio">🌐</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/csivitu/LaserTag-Frontend/commits?author=adityak840">
         <img src="https://avatars.githubusercontent.com/u/90889124?v=4" width="100px;" alt=""/>
       </a>
@@ -141,40 +128,6 @@ Thanks goes to these wonderful people:
       </sub>
       <br />
       <a href="https://github.com/adityak840" title="Code">💻</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/csivitu/LaserTag-Frontend/commits?author=alisha0704">
-        <img src="https://avatars.githubusercontent.com/u/99110876?v=4" width="100px;" alt=""/>
-      </a>
-      <br />
-      <sub>
-        <b>Alisha</b>
-      </sub>
-      <br />
-      <a href="https://github.com/alisha0704" title="Code">💻</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/csivitu/LaserTag-Frontend/commits?author=sanjaybaskaran01">
-        <img src="https://avatars.githubusercontent.com/u/72266283?v=4" width="100px;" alt=""/>
-      </a>
-      <br />
-      <sub>
-        <b>Sanjay Baskaran</b>
-      </sub>
-      <br />
-      <a href="https://github.com/sanjaybaskaran01" title="Code">💻</a>
-      <a href="https://sanjaybaskaran.tech/" title="Documentation">🌐</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/csivitu/LaserTag-Frontend/commits?author=salt57">
-        <img src="https://avatars.githubusercontent.com/u/45989024?v=4" width="100px;" alt=""/>
-      </a>
-      <br />
-      <sub>
-        <b>Sourish</b>
-      </sub>
-      <br />
-      <a href="https://github.com/salt57" title="Code">💻</a>
     </td>
   </tr>
 </table>
