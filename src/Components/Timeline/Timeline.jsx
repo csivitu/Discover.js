@@ -83,8 +83,8 @@ const Timeline = () => {
                     <p className="text-gray sm:text-base text-xs text-left">The workshop series concludes with a hands-on guided project.</p>
                     <p className="text-gray sm:text-base text-xs text-left pt-5">15th February 2023</p>
                     <div className="flex flex-col lg:flex-row">   
-                        <p className="text-white sm:text-base text-xs text-left pt-2">Venue: Will be informed on</p>
-                        <p className="text-yellow sm:text-base text-xs text-left pt-2"> 11th February 2023</p>
+                        <p className="text-white sm:text-base text-xs text-left pt-2">Venue: SJT 621,</p>
+                        <p className="text-yellow sm:text-base text-xs text-left pt-2"> 11:30 a.m. - 1:30 p.m.</p>
                     </div>
                 </div>
             </div>
