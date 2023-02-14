@@ -8,19 +8,19 @@
     <img src="https://csivit.com/images/favicon.png" alt="Logo" width="80">
   </a>
 
-  <h3 align="center">YOUR_TITLE</h3>
+  <h3 align="center">Discover.js-Website</h3>
 
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
+    A website made for discover.js workshop conducted by CSIVIT
     <br />
-    <a href="https://github.com/csivitu/Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/csivitu/Discover.js#about-the-project"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/csivitu/Template">View Demo</a>
+    <a href="https://discoverjs.csivit.com">View Demo</a>
     ·
-    <a href="https://github.com/csivitu/Template/issues">Report Bug</a>
+    <a href="https://github.com/csivitu/Discover.js/issues/new">Report Bug</a>
     ·
-    <a href="https://github.com/csivitu/Template/issues">Request Feature</a>
+    <a href="https://github.com/csivitu/Discover.js/issues/new">Request Feature</a>
   </p>
 </p>
 
@@ -34,29 +34,27 @@
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
-* [Usage](#usage)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [License](#license)
-* [Contributors](#contributors-)
+* [Contributors](#contributors)
 
 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/90889124/218718969-2a748142-489f-4048-aa74-a6aa7615c49e.png" style="width:50%" alt="Discover.js-info" >
+</p>
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`Template`
+CSI-VIT brings to you a series of technical workshops to introduce you to the world of webdev. Come along and let us guide you through your very own portfolio website!
 
 
 ### Built With
 
-* []()
-* []()
-* []()
+* [ReactJs](https://reactjs.org/)
+* [Tailwind CSS](https://tailwindcss.com/)
 
 
 
@@ -77,28 +75,22 @@ npm install npm@latest -g
  
 1. Clone the repo
 ```sh
-git clone https://github.com/csivitu/Template.git
+git clone https://github.com/csivitu/Discover.js.git
 ```
-2. Install NPM packages
+2. Change directory
+```sh
+cd Discover.js
+```
+3. Install NPM packages
 ```sh
 npm install
 ```
 
 
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/csivitu/Template/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/csivitu/Discover.js/issues) for a list of proposed features (and known issues).
 
 
 
@@ -120,7 +112,25 @@ You are requested to follow the contribution guidelines specified in [CONTRIBUTI
 
 Distributed under the MIT License. See [`LICENSE`](./LICENSE) for more information.
 
+## Contributors
 
+Thanks goes to these wonderful people:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/csivitu/LaserTag-Frontend/commits?author=adityak840">
+        <img src="https://avatars.githubusercontent.com/u/90889124?v=4" width="100px;" alt=""/>
+      </a>
+      <br />
+      <sub>
+        <b>Aditya Khandelwal</b>
+      </sub>
+      <br />
+      <a href="https://github.com/adityak840" title="Code">💻</a>
+    </td>
+  </tr>
+</table>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
