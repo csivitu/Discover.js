@@ -26,7 +26,7 @@ const Timeline = () => {
             </div>
             <div className="col-span-4 w-full h-full ">
                 <div className="w-full h-full md:pl-16">
-                <h1 className="text-white text-2xl font-medium py-2 text-left font-bold">Discover.JS</h1>
+                <h1 className="text-white text-2xl font-medium py-2 text-left">Discover.JS</h1>
                     <p className="text-gray sm:text-base text-xs text-left">Take the first steps of your Javascript journey. We'll teach you all about the basics of the language.</p>
                     <p className="text-gray sm:text-base text-xs text-left pt-5 font-medium">8th February 2023</p>
                     <div className="flex flex-col lg:flex-row">   
@@ -39,7 +39,7 @@ const Timeline = () => {
 
         <div className="col-span-4 w-full h-full ">
             <div className="w-full h-full p-2 md:px-16">
-                <h1 className="text-white text-2xl font-medium py-2 text-right font-bold">What's Next?</h1>
+                <h1 className="text-white text-2xl font-medium py-2 text-right">What's Next?</h1>
                     <p className="text-gray sm:text-base text-xs text-right">Introduction to Next.js, a modern framework used to build web applications.</p>
                     <p className="text-gray sm:text-base text-xs text-right pt-5">11th February 2023</p>
                     <div className="flex flex-col lg:flex-row items-end justify-end">   
