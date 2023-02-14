@@ -46,7 +46,7 @@
 ## About The Project
 
 <p align="center">
-  <img src="readme.svg" alt="Discover.js-info" >
+  <img src="./src/Images/readme.svg" alt="Discover.js-info" >
 </p>
 
 CSI-VIT brings to you a series of technical workshops to introduce you to the world of webdev. Come along and let us guide you through your very own portfolio website!
@@ -113,7 +113,71 @@ You are requested to follow the contribution guidelines specified in [CONTRIBUTI
 
 Distributed under the MIT License. See [`LICENSE`](./LICENSE) for more information.
 
+## Contributors
 
+Thanks goes to these wonderful people:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/csivitu/LaserTag-Frontend/commits?author=nimishjn">
+        <img src="https://avatars.githubusercontent.com/u/63140632?v=4" width="100px;" alt=""/>
+      </a>
+      <br />
+      <sub>
+        <b>Nimish Jain</b>
+      </sub>
+      <br />
+      <a href="https://github.com/nimishjn" title="Code">💻</a>
+      <a href="https://www.nimish-jain.com" title="Portfolio">🌐</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/csivitu/LaserTag-Frontend/commits?author=adityak840">
+        <img src="https://avatars.githubusercontent.com/u/90889124?v=4" width="100px;" alt=""/>
+      </a>
+      <br />
+      <sub>
+        <b>Aditya Khandelwal</b>
+      </sub>
+      <br />
+      <a href="https://github.com/adityak840" title="Code">💻</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/csivitu/LaserTag-Frontend/commits?author=alisha0704">
+        <img src="https://avatars.githubusercontent.com/u/99110876?v=4" width="100px;" alt=""/>
+      </a>
+      <br />
+      <sub>
+        <b>Alisha</b>
+      </sub>
+      <br />
+      <a href="https://github.com/alisha0704" title="Code">💻</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/csivitu/LaserTag-Frontend/commits?author=sanjaybaskaran01">
+        <img src="https://avatars.githubusercontent.com/u/72266283?v=4" width="100px;" alt=""/>
+      </a>
+      <br />
+      <sub>
+        <b>Sanjay Baskaran</b>
+      </sub>
+      <br />
+      <a href="https://github.com/sanjaybaskaran01" title="Code">💻</a>
+      <a href="https://sanjaybaskaran.tech/" title="Documentation">🌐</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/csivitu/LaserTag-Frontend/commits?author=salt57">
+        <img src="https://avatars.githubusercontent.com/u/45989024?v=4" width="100px;" alt=""/>
+      </a>
+      <br />
+      <sub>
+        <b>Sourish</b>
+      </sub>
+      <br />
+      <a href="https://github.com/salt57" title="Code">💻</a>
+    </td>
+  </tr>
+</table>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
